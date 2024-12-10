@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Inline CSS for styling
 const styles = {
   container: {
     display: 'flex',
@@ -8,7 +7,6 @@ const styles = {
     justifyContent: 'center',
     alignItems: 'center',
     height: '100vh',
-    background: 'linear-gradient(135deg, #8e44ad, #3498db)',
     color: '#fff',
     fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
     textAlign: 'center',

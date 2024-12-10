@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark">
-          <a className="navbar-brand" href="/">My Website</a>
+          <a className="navbar-brand" href="/">Yunik's Web</a>
           <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
             <span className="navbar-toggler-icon"></span>
           </button>
